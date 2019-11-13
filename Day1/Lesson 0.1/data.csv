@@ -1,0 +1,62 @@
+,Name,Township,Province,Type,Groups,Owners,Power in MW,Lat,Lon
+0,Central térmica Litoral de Almería,Carboneras,Almería,convencional,2,Endesa,1159.0,36.97778,-1.90444
+1,Central térmica de Arcos,Arcos de la Frontera,Cádiz,c. combinado,3,Iberdrola,1613.0,36.6725,-5.81611
+2,Central térmica Bahía de Algeciras,San Roque,Cádiz,c. combinado,2,Repsol,800.0,36.18278,-5.38944
+3,Central térmica Campo de Gibraltar,San Roque,Cádiz,c. combinado,2,Naturgy / CEPSA,789.0,36.18333,-5.39306
+4,Central de ciclo combinado de San Roque,San Roque,Cádiz,c. combinado,2,Endesa / Naturgy,800.0,36.19556,-5.41306
+5,Central térmica de Los Barrios,Los Barrios,Cádiz,convencional,1,Viesgo,567.0,36.18278,-5.42
+6,Central térmica de Puente Nuevo,Espiel,Córdoba,convencional,1,Viesgo,324.0,38.11056,-4.93472
+7,Central térmica Cristóbal Colón,Huelva,Huelva,c. combinado,1,Endesa,400.0,37.21583,-6.94417
+8,Central térmica de Palos de la Frontera,Palos de la Frontera,Huelva,c. combinado,3,Naturgy,1200.0,37.18417,-6.88583
+9,Central térmica de Campanillas,Málaga,Málaga,c. combinado,1,Naturgy,400.0,36.74833,-4.56278
+10,Central térmica de Andorra,Andorra,Teruel,convencional,3,Endesa,1101.0,40.99778,-0.38278
+11,Central térmica de Castelnou Energía,Castelnou,Teruel,c. combinado,2,Engie,790.0,41.21667,-0.29278
+12,Central térmica de Escatrón,Escatrón,Zaragoza,c. combinado,2,Repsol,804.0,41.29694,-0.33972
+13,Central térmica Escatrón Peaker,Escatrón,Zaragoza,c. combinado,1,Global 3 Energía,285.0,41.28056,-0.21778
+14,Central térmica de Aboño,Carreño,Asturias,convencional,2,HC Energía,921.0,43.55306,-5.72306
+15,Central térmica de Lada,Langreo,Asturias,convencional,2,Iberdrola,515.0,43.30806,-5.7
+16,Central térmica de La Pereda,Mieres,Asturias,lecho fluido,1,Hunosa,50.0,43.27306,-5.80917
+17,Central térmica del Narcea,Tineo,Asturias,convencional,3,Naturgy,586.0,43.29194,-6.39389
+18,Central térmica de Soto de Ribera,Ribera de Arriba,Asturias,mixta,4,HC Energía,1481.0,43.3125,-5.87444
+19,Central térmica de Es Murterar,Alcudia (Mallorca),Baleares,convencional,6,Endesa,585.0,39.81056,3.09194
+20,Central térmica de Cas Tresorer,Palma de Mallorca (Mallorca),Baleares,c. combinado,2,Endesa,477.0,39.56778,2.68944
+21,Central térmica de Son Reus,Palma de Mallorca (Mallorca),Baleares,c. combinado,2,Endesa,611.0,39.64833,2.68083
+22,Central térmica de Mahón,Mahón (Menorca),Baleares,convencional,5,Endesa,270.0,39.89667,4.25861
+23,Central térmica de Ibiza[n. 1]​,Ibiza (Ibiza),Baleares,convencional,6,Endesa,292.0,38.91889,1.43111
+24,Central térmica de Barranco de Tirajana,San Bartolomé de Tirajana (Gran Canaria),Provincia de Las Palmas,mixta,7,Endesa,697.0,27.80417,-15.4375
+25,Central térmica de Jinámar,Las Palmas de Gran Canaria (Gran Canaria),Provincia de Las Palmas,convencional,13,Endesa,335.0,28.04222,-15.41111
+26,Central térmica de Las Salinas,Puerto del Rosario (Fuerteventura),Las Palmas,convencional,11,Endesa,186.0,28.50417,-13.84472
+27,Central térmica de Punta Grande,Teguise (Lanzarote),Las Palmas,convencional,10,Endesa,212.0,28.97917,-13.51667
+28,Central térmica de Caletillas[n. 2]​,Candelaria (Tenerife),Santa Cruz de Tenerife,convencional,10,Endesa,288.0,28.38139,-16.3575
+29,Central térmica de Granadilla[n. 3]​,Granadilla de Abona (Tenerife),Santa Cruz de Tenerife,mixta,9,Endesa,800.0,28.085,-16.49444
+30,Central térmica Cotesa,Santa Cruz (Tenerife),Santa Cruz de Tenerife,convencional,1,CEPSA,38.0,28.45139,-16.26472
+31,Central térmica Los Guinchos,Santa Cruz de La Palma (La Palma),Santa Cruz de Tenerife,convencional,8,Endesa,73.0,28.66556,-17.76778
+32,Central térmica de Llanos Blancos,Valverde (El Hierro),Santa Cruz de Tenerife,convencional,8,Endesa,9.0,27.77806,-17.9075
+33,Central térmica El Palmar,San Sebastián de la Gomera (La Gomera),Santa Cruz de Tenerife,convencional,8,Endesa,14.0,28.08806,-17.11778
+34,Central térmica de Arona,Arona (Tenerife),Santa Cruz de Tenerife,convencional,2,Endesa,48.6,28.1000583,-16.6813778
+35,Central térmica de Compostilla II,Cubillos del Sil,León,convencional,4,Endesa,1199.0,42.61111,-6.56583
+36,Central térmica de La Robla,La Robla,León,convencional,2,Naturgy,655.0,42.79222,-5.63444
+37,Central térmica de Velilla,Velilla del Río Carrión,Palencia,convencional,2,Iberdrola,515.0,42.81806,-4.85389
+38,Central térmica de Aceca,Villaseca de la Sagra,Toledo,mixta,4,Iberdrola / Naturgy,1430.0,39.94389,-3.855
+39,Central térmica del Puerto de Barcelona,Barcelona,Barcelona,c. combinado,2,Naturgy,850.0,41.33667,2.15917
+40,Central térmica Besós V,San Adrián de Besós,Barcelona,c. combinado,2,Endesa,873.0,41.41833,2.22861
+41,Central de ciclo combinado del Besós,San Adrián de Besós,Barcelona,c. combinado,2,Naturgy / Endesa,800.0,41.41944,2.22972
+42,Central térmica de Tarragona,Tarragona,Tarragona,c. combinado,1,Viesgo,410.0,41.10806,1.19083
+43,Central térmica Tarragona Power,La Canonja,Tarragona,c. combinado,1,Iberdrola,424.0,41.10972,1.18111
+44,Central térmica Plana del Vent,Vandellós,Tarragona,c. combinado,2,Alpiq,800.0,40.95944,0.86889
+45,Central diésel de Ceuta,Ceuta,Ciudad autónoma de Ceuta,convencional,10,Endesa,100.0,35.8925,-5.32278
+46,Central térmica de Meirama,Cerceda,La Coruña,convencional,1,Naturgy,563.0,43.16806,-8.41111
+47,Central térmica de As Pontes,Puentes de García Rodríguez,La Coruña,mixta,5,Endesa,2318.0,43.44056,-7.8625
+48,Central térmica de Sabón,Arteijo,La Coruña,c. combinado,1,Naturgy,400.0,43.33194,-8.5
+49,Central diésel de Melilla,Melilla,Ciudad autónoma de Melilla,convencional,6,Endesa,84.0,35.29028,-2.93667
+50,Engie Energía Cartagena,Cartagena,Murcia,c. combinado,3,Engie / AES,1200.0,37.57056,-0.94583
+51,Central térmica de Escombreras-Iberdrola,Cartagena,Murcia,c. combinado,2,Iberdrola,831.0,37.56528,-0.95139
+52,Central de ciclo combinado de Cartagena-Naturgy,Cartagena,Murcia,c. combinado,3,Naturgy,1200.0,37.57306,-0.93917
+53,Central térmica Castejón 1,Castejón,Navarra,c. combinado,2,HC Energía,842.0,42.17722,-1.695
+54,Central térmica Castejón 2,Castejón,Navarra,c. combinado,1,Iberdrola,386.0,42.17167,-1.67722
+55,Bahía de Bizkaia Electricidad,Ciérvana,Vizcaya,c. combinado,2,EVE / BP,795.0,43.36083,-3.09417
+56,Central térmica de Boroa,Amorebieta,Vizcaya,c. combinado,2,ESB Co. / Osaka Gas,755.0,43.23472,-2.74972
+57,Central térmica de Santurce,Santurce,Vizcaya,c. combinado,1,Iberdrola,402.0,43.33917,-3.0525
+58,Central térmica de Arrúbal,Arrúbal,La Rioja,c. combinado,2,ContourGlobal,800.0,42.41944,-2.25111
+59,Central térmica de Castellón,Castellón de la Plana,Castellón,c. combinado,2,Iberdrola,1650.0,39.95583,0.00139
+60,Central térmica de Sagunto,Sagunto,Valencia,c. combinado,3,Naturgy,1200.0,39.6425,-0.23417
