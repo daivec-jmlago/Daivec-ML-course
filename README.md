@@ -8,7 +8,7 @@ Machine Learning as well as Data Analysis is a very interdisciplinary field, tha
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Relationship_of_data%2C_information_and_intelligence.png" width="500"/>
 
-This course tries to show you the basics of that, so it will be an interdisciplinary course where you will learn the basics to start your own path as a Python Data Analysis.
+This course tries to show you the basics of that, so it will be an interdisciplinary course where you will learn the basics to start your own path as a user of Machine Learning and Python.
 
 ### Scheme of the course
 * Day 1 - Introduction and DTs
