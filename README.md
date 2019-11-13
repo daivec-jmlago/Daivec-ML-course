@@ -22,6 +22,10 @@ This course tries to show you the basics of that, so it will be an interdiscipli
         - Git
         - Virtualenvs
         - External Materials
+        - Python basics (opt)
+        - Numpy (opt)
+        - Pandas (opt)
+        - Visualization tools (opt)
     * **Lesson 1 - Greedy algorithms and DT**
         - What is and why do we use ML
         - Basic ML concepts, problem definition and pipeline
